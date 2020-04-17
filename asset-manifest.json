@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/raect-movie-app.git/static/css/main.9a4c7cf0.chunk.css",
+    "main.js": "/raect-movie-app.git/static/js/main.3a5f13fa.chunk.js",
+    "main.js.map": "/raect-movie-app.git/static/js/main.3a5f13fa.chunk.js.map",
+    "runtime-main.js": "/raect-movie-app.git/static/js/runtime-main.b39b560e.js",
+    "runtime-main.js.map": "/raect-movie-app.git/static/js/runtime-main.b39b560e.js.map",
+    "static/js/2.1097bbcb.chunk.js": "/raect-movie-app.git/static/js/2.1097bbcb.chunk.js",
+    "static/js/2.1097bbcb.chunk.js.map": "/raect-movie-app.git/static/js/2.1097bbcb.chunk.js.map",
+    "index.html": "/raect-movie-app.git/index.html",
+    "precache-manifest.f9f9a6e92440681b3fd14cb3c4dab6fa.js": "/raect-movie-app.git/precache-manifest.f9f9a6e92440681b3fd14cb3c4dab6fa.js",
+    "service-worker.js": "/raect-movie-app.git/service-worker.js",
+    "static/css/main.9a4c7cf0.chunk.css.map": "/raect-movie-app.git/static/css/main.9a4c7cf0.chunk.css.map",
+    "static/js/2.1097bbcb.chunk.js.LICENSE.txt": "/raect-movie-app.git/static/js/2.1097bbcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b39b560e.js",
+    "static/js/2.1097bbcb.chunk.js",
+    "static/css/main.9a4c7cf0.chunk.css",
+    "static/js/main.3a5f13fa.chunk.js"
+  ]
+}
